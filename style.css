@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#bollos{
+    width: 883px;
+    height:374px ;
+}
+
+.titulo{
+  color: black;
+  font-size: 89px;
+  line-height: 79px;
+  color: #FFB300;
+}
+
+#autor{
+  color: black;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+main p {
+  font-size: 21px;
+  font-weight:600;
+  line-height: 1.61;
+  color: black;
+}
+ 
+p{
+  padding: 34px;
+ }
+
+
+hr {
+   height:5px;
+   background-color: #999999;
+}
+
+div {
+  padding: 34px;
+
+}
+#Preparado{
+  font-size: 21px;
+  font-weight: medium;
+}
+
+#Rendimiento{
+  font-weight: black;
+}
+
+h1, h2{
+  color: #FFB300;
+}
+
+li{
+  font-size: 21px;
+  font-weight: 600;
+  Line-height: 21px * 1.61
+}
+
+ul{
+  font-size:  21px;
+  font-weight: 600;
+  Line-height: 21px * 1.61
+}
+
+iframe{
+  width:883px ;
+  height: 497px ;
+}
+
+a{
+  font-size: 21px;
+  font-weight: black;
+  color: #0037B3;
+}
+
