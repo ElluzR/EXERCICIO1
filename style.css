@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+
 }
 
 html{
@@ -22,6 +23,7 @@ html{
   color: black;
   font-size: 21px;
   font-weight: bold;
+  text-align: right;
 }
 
 main p {
@@ -29,12 +31,12 @@ main p {
   font-weight:600;
   line-height: 1.61;
   color: black;
+  text-align: justify;
 }
  
 p{
-  padding: 34px;
+  padding right: 34px;
  }
-
 
 hr {
    height:5px;
@@ -42,16 +44,7 @@ hr {
 }
 
 div {
-  padding: 34px;
-
-}
-#Preparado{
-  font-size: 21px;
-  font-weight: medium;
-}
-
-#Rendimiento{
-  font-weight: black;
+  padding top: 34px;
 }
 
 h1, h2{
