@@ -35,8 +35,8 @@ main p {
 }
  
 p{
-  padding right: 34px;
- }
+  padding-right: 34px;
+}
 
 hr {
    height:5px;
@@ -44,7 +44,7 @@ hr {
 }
 
 div {
-  padding top: 34px;
+  padding-top: 34px;
 }
 
 h1, h2{
